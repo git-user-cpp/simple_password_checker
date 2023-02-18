@@ -18,8 +18,11 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/git-user-cpp/simple_password_checker?color=98FB98&logo=github&logoColor=98FB98&style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/git-user-cpp/simple_password_checker?color=98FB98&logo=github&logoColor=98FB98&style=plastic)
 
-#
+---
+
 :key: Simple password checker is implemented in C and NASM. Created to gain experience in zero runtime programming :key:
+
+---
 
 ## ⚠️ LICENSE ⚠️
 MIT License
@@ -43,6 +46,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
 
 ## 💻 How to use this app 💻
 
@@ -85,3 +90,5 @@ SOFTWARE.
     ```
     ./main Hello
     ```
+
+---
